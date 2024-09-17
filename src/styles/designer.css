@@ -1,0 +1,15 @@
+.parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url("T-SHIRT.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+
+  background-color: white;
+  height: 1120px;
+  width: 800px;
+  position: relative;
+}
